@@ -6,7 +6,7 @@
 
 <p align="center">Dev Finances é um projeto de controle de finanças pessoais.</p>
 
-<p>Clique na <a href="https://personfinances.netlify.app/">Demo</a> para ver a demonstração no seu navegador.</p>
+<p>Clique <a href="https://personfinances.netlify.app/">Aqui</a> para visualizar uma demonstração.</p>
 
 ## Tecnologias utilizadas:
 
